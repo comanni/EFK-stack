@@ -29,7 +29,7 @@ cd /path/to/project
 docker-compose up
 ```
 
-위의 명령어 실행후 모든 docker가 띄어져있으면, kibana(http://localhost:5601)로 접근해서 elasticsearch와 연결해주시면 됩니다.
+위의 명령어 실행후 모든 docker가 띄어져있으면, kibana(http://localhost:5601) 로 접근해서 elasticsearch와 연결해주시면 됩니다.
 
 저는 manual connect를 선택해서 http://es01:9200 으로 연결했습니다.
 
