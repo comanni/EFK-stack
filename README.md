@@ -4,9 +4,9 @@
 
 Includes:
 
-- [Elasticsearch][elasticsearch]
-- [Fluentd][fluentd]
-- [Kibana][kibana]
+- Elasticsearch
+- Fluentd
+- Kibana
 
 ## Introduction
 
@@ -19,8 +19,8 @@ Fluentd가 설치된 곳의 log 파일 및 http input으로 들어온 데이터�
 
 ### Requirements
 
-- [Docker][docker]
-- [Docker Compose][docker-compose]
+- Docker
+- Docker Compose
 
 ### Run
 
